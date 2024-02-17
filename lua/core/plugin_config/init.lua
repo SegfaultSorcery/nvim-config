@@ -5,8 +5,7 @@ end
 
 require(fullPath("treesitter"))
 require(fullPath("mason-lsp"))
-require(fullPath("cmp"))
-require(fullPath("lspconfig"))
+require(fullPath("lsp"))
 require(fullPath("nvim-tree"))
 require(fullPath("telescope"))
 require(fullPath("vimtex"))
