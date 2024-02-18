@@ -164,6 +164,11 @@ _G.packer_plugins = {
     path = "/home/vebly/.local/share/nvim/site/pack/packer/start/nvim-dap-ui",
     url = "https://github.com/rcarriga/nvim-dap-ui"
   },
+  ["nvim-highlight-colors"] = {
+    loaded = true,
+    path = "/home/vebly/.local/share/nvim/site/pack/packer/start/nvim-highlight-colors",
+    url = "https://github.com/brenoprata10/nvim-highlight-colors"
+  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "/home/vebly/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",

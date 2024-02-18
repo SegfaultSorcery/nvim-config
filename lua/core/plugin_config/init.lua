@@ -17,4 +17,5 @@ require(fullPath("lualine"))
 require(fullPath("comment"))
 require(fullPath("dap"))
 require(fullPath("cmake-tools"))
+require(fullPath("highlight-colors"))
 

@@ -33,6 +33,7 @@ return require('packer').startup(function(use)
     use 'jakemason/ouroboros' -- Switching between c++ header and source files
     use 'numToStr/Comment.nvim'
     use 'j-morano/buffer_manager.nvim'
+    use 'brenoprata10/nvim-highlight-colors'
     -- Debug
     use { "rcarriga/nvim-dap-ui", requires = {"mfussenegger/nvim-dap"} }
     -- Building
