@@ -108,6 +108,12 @@ lspconfig.tsserver.setup{
 lspconfig.cssls.setup {
     capabilities = capabilities
 }
+lspconfig.tailwindcss.setup{
+    capabilities = capabilities
+}
+lspconfig.volar.setup{
+    capabilities = capabilities
+}
 lspconfig.jsonls.setup {
     capabilities = capabilities
 }
